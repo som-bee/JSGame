@@ -20,7 +20,7 @@ p{
 #game-init{
     position: absolute;
     text-align: center;
-    width: 800px;
+    width: 600px;
     z-index: 99;
     margin: auto auto;
     left: 0;
